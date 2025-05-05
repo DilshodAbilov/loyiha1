@@ -74,7 +74,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 9,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Bookmark",
@@ -86,6 +86,18 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MyForm3.h [Design]",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\visual studio\\sessiya\\MyForm3.h",
+              "RelativeDocumentMoniker": "MyForm3.h",
+              "ToolTip": "C:\\Users\\User\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\visual studio\\sessiya\\MyForm3.h [Design]",
+              "RelativeToolTip": "MyForm3.h [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-05-02T11:46:48.83Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 4,
               "Title": "MyForm1.h",
               "DocumentMoniker": "C:\\Users\\User\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\visual studio\\sessiya\\MyForm1.h",
@@ -94,8 +106,7 @@
               "RelativeToolTip": "MyForm1.h",
               "ViewState": "AgIAACoAAAAAAAAAAADwvxsAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2025-05-02T13:17:40.21Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-02T13:17:40.21Z"
             },
             {
               "$type": "Document",
@@ -106,8 +117,7 @@
               "ToolTip": "C:\\Users\\User\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\visual studio\\sessiya\\MyForm1.h [Design]",
               "RelativeToolTip": "MyForm1.h [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2025-05-02T13:04:45.587Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2025-05-02T13:04:45.587Z"
             },
             {
               "$type": "Document",
@@ -118,8 +128,7 @@
               "ToolTip": "C:\\Users\\User\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\visual studio\\sessiya\\MyForm2.h [Design]",
               "RelativeToolTip": "MyForm2.h [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2025-05-02T13:04:53.453Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2025-05-02T13:04:53.453Z"
             },
             {
               "$type": "Document",
@@ -130,8 +139,7 @@
               "ToolTip": "C:\\Users\\User\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\visual studio\\sessiya\\MyForm.h [Design]",
               "RelativeToolTip": "MyForm.h [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2025-05-02T13:04:12.372Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2025-05-02T13:04:12.372Z"
             },
             {
               "$type": "Document",
@@ -143,8 +151,7 @@
               "RelativeToolTip": "MyForm.h",
               "ViewState": "AgIAAGkAAAAAAAAAAADwv3kAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2025-05-02T13:04:14.351Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-02T13:04:14.351Z"
             },
             {
               "$type": "Document",
@@ -171,18 +178,6 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "MyForm3.h [Design]",
-              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\visual studio\\sessiya\\MyForm3.h",
-              "RelativeDocumentMoniker": "MyForm3.h",
-              "ToolTip": "C:\\Users\\User\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\visual studio\\sessiya\\MyForm3.h [Design]",
-              "RelativeToolTip": "MyForm3.h [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2025-05-02T11:46:48.83Z",
-              "EditorCaption": " [Design]"
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 5,
               "Title": "MyForm2.h",
               "DocumentMoniker": "C:\\Users\\User\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\visual studio\\sessiya\\MyForm2.h",
@@ -191,8 +186,7 @@
               "RelativeToolTip": "MyForm2.h",
               "ViewState": "AgIAAJwAAAAAAAAAAADwv64AAAAGAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2025-05-02T08:55:15.513Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-02T08:55:15.513Z"
             },
             {
               "$type": "Document",
@@ -204,8 +198,7 @@
               "RelativeToolTip": "MyForm3.h",
               "ViewState": "AgIAAJABAAAAAAAAAADwv6MBAAAvAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2025-05-01T09:19:23.212Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-01T09:19:23.212Z"
             },
             {
               "$type": "Document",
